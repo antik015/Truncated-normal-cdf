@@ -30,5 +30,5 @@ length of m.
 The function is very fast compared to the popular ptmvnorm() function from the R package "tmvtnorm". See the plot below for a time 
 comparison.
 
-![](https://github.com/antik015/Truncated-normal-cdf/blob/master/images/tmv_time_comparison.png?raw=true)
+![](https://github.com/antik015/Truncated-normal-cdf/blob/master/images/tmv_time_comparison_resized.png?raw=true)
 
